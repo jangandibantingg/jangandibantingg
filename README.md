@@ -1,5 +1,3 @@
-![alt text](https://i.pinimg.com/736x/bb/ef/94/bbef94af434fe965055336ec46230c09.jpg)
-
 <h1 align="center">Hi 👋, I'm aang muhammad</h1>
 <h3 align="center">A passionate { frontend, backend } from Indonesian-developer</h3>
 
