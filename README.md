@@ -34,7 +34,7 @@ const engoncode = {
         mobileApp: {
             native: ["React Native"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "instance EC2", "Nginx"],
         databases: ["Postgres", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
