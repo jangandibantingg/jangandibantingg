@@ -45,4 +45,6 @@ const engoncode = {
 ```
 
 <h5><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</h5>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jangandibantingg&theme=tokyonight" alt="mystreak"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jangandibantingg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jangandibantingg&theme=juicyfresh&no-bg=true" />
