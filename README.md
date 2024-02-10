@@ -19,8 +19,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 npx engoncode
 ```
 **👆 This command line tool can be found at [npx engoncode](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###  A little more about me...  
 
 ```javascript
 const engoncode = {
@@ -44,7 +44,7 @@ const engoncode = {
 };
 ```
 
-<h5><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</h5>
+<h5>🚀 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</h5>
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangandibantingg&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-profile-trophy.vercel.app/?username=jangandibantingg&theme=juicyfresh&no-bg=true" />
