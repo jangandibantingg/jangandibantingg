@@ -4,6 +4,11 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+I am an experienced application developer proficient in creating iOS and Android applications using React Native. I have expertise in both front-end and back-end development, ensuring that the applications I develop are not only visually appealing but also functional and efficient.
+
+With my skills in using Figma, I can design intuitive user interfaces and then convert them into ready-to-use React Native code. Additionally, I have experience with AWS Cloud for infrastructure and storage needs.
+
+I am also adept at managing applications on Google Play Console and App Store Connect, ensuring a smooth process for app uploads and updates. I always strive to follow best practices in software development and ensure that every project I work on meets high-quality standards.
 
 
 
