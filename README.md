@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/qs0tBz8/Group-7.png" width="1828"> 
+
 <p><em>Associate Technical Lead at <a href="https://www.telkomproperty.co.id/" target="_blank">TelkomProperty
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
